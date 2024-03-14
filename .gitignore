@@ -1,0 +1,9 @@
+[connections.snowflake]
+account = "HLJNIOZ-LN20820"
+user = "ALEBRUN"
+password = "Jean-michel78"
+role = "SYSADMIN"
+warehouse = "COMPUTE_WH"
+database = "SMOOTHIES"
+schema = "PUBLIC"
+client_session_keep_alive = true
